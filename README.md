@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02A6F4&height=120&section=header"/>
 <h1 align="center">Embarcatec | Comunicação Serial com RP2040 UART, SPI e I2C</h1>
 
@@ -56,6 +54,5 @@ Interação com o Botão B
 ## 🎥 Demonstração: 
 - Para ver o funcionamento do projeto, acesse o vídeo:
 
-https://youtu.be/3hq430ktYj0
+Disponivel em: https://youtu.be/3hq430ktYj0
 =======
-# embarcatec3
